@@ -1,0 +1,30 @@
+{
+    "Propietario - Eduardo Campos": {
+        "Placa - K202": {
+            "Tipo": "Analgico",
+            "Anio": "2018",
+            "Planillas": "2"
+        }
+    },
+    "Propietario - Karen Delgado": {
+        "Placa - Z335": {
+            "Tipo": "Digital",
+            "Anio": "2013",
+            "Planillas": "1"
+        }
+    },
+    "Propietario - Rafael Rivadeneira": {
+        "Placa - M101": {
+            "Tipo": "Digital",
+            "Anio": "2015",
+            "Planillas": "5"
+        }
+    },
+    "Propietario - Karen Gordillo": {
+        "Placa - K743": {
+            "Tipo": "Digital",
+            "Anio": "2001",
+            "Planillas": "1"
+        }
+    }
+}
